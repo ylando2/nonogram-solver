@@ -3,6 +3,7 @@ nonogram-solver
 
 Programmer: Yuval Lando
 
+![alt An example of a nonogram puzzle](Paint_by_numbers.gif)
 This is a nonogram solver program it contain three files.
 
 nonogram-module-typed.rkt - the library that solve the puzzles.  
