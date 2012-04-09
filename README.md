@@ -3,7 +3,7 @@ nonogram-solver
 
 Programmer: Yuval Lando
 
-![alt An example of a nonogram puzzle](Paint_by_numbers.gif)
+![alt An example of a nonogram puzzle](https://github.com/ylando2/nonogram-solver/blob/master/Paint_by_numbers.gif?raw=true)
 
 This is a nonogram solver program it contain three files.
 
