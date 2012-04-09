@@ -3,7 +3,7 @@ nonogram-solver
 
 Programmer: Yuval Lando
 
-Nonogram or paint by number are a type of puzzle that is publish in newspapers.
+Nonogram or "paint by numbers" is a type of puzzle that is publish in newspapers.
 Here is a wikipedia [link](http://en.wikipedia.org/wiki/Nonogram) about it.
 
 ![alt An example of a nonogram puzzle](https://github.com/ylando2/nonogram-solver/blob/master/Paint_by_numbers.gif?raw=true)
