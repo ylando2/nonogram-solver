@@ -11,7 +11,7 @@
   (filled-rectangle size size))
 
 (define (black-square size)
-  (colorize (square size) "black"))
+  (frame (colorize (square size) "black") #:color "black"))
 
 (define (white-square size)
   (frame (colorize (square size) "white") #:color "black"))
