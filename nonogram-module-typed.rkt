@@ -146,7 +146,7 @@
             (if (fx> empty-pos -1)
                 (when (not-full-vector-range? test pos empty-pos)
                   (fill-vector! temp-vec pos (fx+ empty-pos 1) EMPTY)
-                  (helper lst (fx+ empty-pos 1) (fx- space (fx+ (fx- empty-pos pos) 1)))) ;;(loop (fx+ (fx- empty-pos pos) 1)))
+                  (helper lst (fx+ empty-pos 1) (fx- space (fx+ (fx- empty-pos pos) 1))))
                 (let loop ([i 0])
                   (when (<= i space) 
                     (if (fx> i 0)
